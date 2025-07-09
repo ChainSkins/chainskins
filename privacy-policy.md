@@ -11,9 +11,6 @@ chainskins.net (“we”, “our”, or “the Platform”) is committed to prot
 
 When you use the Platform, we may collect the following information:
 
-- **Public wallet address** (used for P2P transactions)
-- **Encrypted wallet-related metadata** (encrypted client-side; not readable by us)
-- **Smart contract interaction logs**
 - **Technical information** such as:
   - IP address
   - Browser type and version
@@ -49,6 +46,7 @@ We process your data based on the following legal grounds:
 - All encryption occurs client-side using a combination of the user's password and a server-side master key.
 - We **do not** have access to decrypt user wallets without user involvement.
 - Industry-standard security measures are implemented to safeguard our servers and user interactions.
+- We implement appropriate technical and organizational measures to protect all collected data, including logs and metadata, in compliance with applicable data protection regulations.
 
 ---
 
@@ -124,3 +122,12 @@ By using the Platform, you agree to provide such information if requested and ac
 We may update this policy from time to time. Continued use of the Platform after changes indicates your acceptance of the revised terms.
 
 For questions, contact us at: **support@chainskins.net**
+
+---
+
+### 13. Age Restriction
+
+Use of chainskins.net is strictly limited to individuals who are at least 18 years old. We do not knowingly collect data from minors. If it is discovered that a user is under 18, their access will be suspended and their data will be deleted.
+
+By using the Platform, you confirm that you are at least 18 years old or have the consent of a legal guardian.
+
