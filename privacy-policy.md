@@ -76,3 +76,14 @@ Our servers are hosted within the European Union and/or in jurisdictions with ad
 We may update this policy from time to time. Continued use of the Platform after changes indicates your acceptance of the revised terms.
 
 For questions, contact us at: **support@chainskins.net**
+
+---
+
+### 9. Compliance with Legal Requirements and AML/KYC Measures
+
+Chainskins.net is committed to complying with all applicable laws, including anti-money laundering (AML) and counter-terrorism financing (CTF) regulations.
+
+If required by law or competent authorities, we reserve the right to request additional information from users for identity verification (KYC) or other purposes necessary to ensure the security and legality of transactions on the platform.
+
+By using the Platform, you agree to provide such information if requested and acknowledge that failure to comply may result in suspension or termination of access.
+
