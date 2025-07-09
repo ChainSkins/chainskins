@@ -73,4 +73,4 @@ chainskins.net is a peer-to-peer (P2P) platform designed to facilitate the buyin
 
 ---
 
-If you have questions or require further clarification, please contact: **support@chainskins.net**
+If you have questions or require further clarification, please contact: **[support@chainskins.net](mailto:support@chainskins.net)**
