@@ -44,7 +44,7 @@ chainskins.net is not affiliated with Valve, Steam, or Counter-Strike 2. All ref
 
 ### 5. Contact
 
-For general inquiries or concerns, contact: **support@chainskins.net**
+For general inquiries or concerns, contact: **[support@chainskins.net](mailto:support@chainskins.net)**
 
 ---
 
