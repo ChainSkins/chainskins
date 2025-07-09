@@ -105,4 +105,4 @@ We may modify these Terms and Conditions at any time. Updates will be posted her
 
 ---
 
-Questions or concerns? Contact us at: **support@chainskins.net**
+Questions or concerns? Contact us at: **[support@chainskins.net](mailto:support@chainskins.net)**
