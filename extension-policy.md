@@ -1,77 +1,85 @@
-# Extension Wallet – Terms and Conditions
+# Extension Wallet – Terms and Privacy Policy
 
-_Last updated: June 20, 2025_
+*Last updated: July 9, 2025*
 
-Welcome to the Extension Wallet (“Extension”, “we”, “our”, or “us”). By installing or using this Extension, you (“User”, “you”) agree to these Terms and Conditions. Please read carefully.
-
----
-
-## 1. Introduction  
-This Extension functions as a cryptocurrency wallet that securely stores your private keys encrypted with your chosen password and a master password held by the backend. It supports multiple cryptocurrencies and is used to sign transactions and facilitate purchases of CS2 skins through chainskins.net.
-
-## 2. Use of the Extension  
-- You are solely responsible for maintaining the confidentiality of your passwords and private keys.  
-- The Extension does not have direct access to your private keys in unencrypted form.  
-- You acknowledge that transaction signing is done locally via the Extension.  
-- You agree to use the Extension only for lawful purposes and in compliance with all applicable laws and regulations.
-
-## 3. Security  
-- The Extension employs encryption to protect your private keys.  
-- We do not store your private keys in plaintext.  
-- You must use strong, unique passwords and keep them confidential.
-
-## 4. Limitations of Liability  
-- We are not liable for any loss, damage, or unauthorized access resulting from your failure to secure your passwords or device.  
-- We do not guarantee transaction outcomes or recovery of lost keys.  
-- Use of the Extension is at your own risk.
-
-## 5. Updates and Modifications  
-- We may update or modify the Extension to improve functionality or security.  
-- Continued use after updates constitutes acceptance of changes.
-
-## 6. Termination  
-We may suspend or terminate your access if you violate these terms or engage in malicious activity.
-
-## 7. Governing Law  
-These Terms are governed by the laws of Estonia. This does not imply registration as a company but serves as a legal framework.
+This document outlines the Terms and Conditions and Privacy Policy for the Extension Wallet ("Extension", "we", "our", or "us"). By installing or using this Extension, you ("User", "you") agree to the following provisions. Please read them carefully.
 
 ---
 
-# Extension Wallet – Privacy Policy
+## 1. Overview
 
-_Last updated: June 20, 2025_
+The Extension Wallet is a non-custodial cryptocurrency wallet that allows users to:
 
-This Privacy Policy describes how the Extension collects, uses, and protects your personal data.
+* Generate and manage a crypto wallet using a password of their choice.
+* Interact with smart contracts.
+* Sign blockchain transactions.
+* Connect and verify Steam accounts via OAuth for the purpose of facilitating trades on chainskins.net.
 
-## 1. Data Collection  
-The Extension collects the following data:  
-- Encrypted private keys (never stored in plaintext)  
-- Your chosen password (never stored)  
-- Metadata related to transaction signing and wallet usage  
-- Technical data such as device type and software version
+This Extension is designed with full client-side privacy. All sensitive operations are performed locally within the user's browser environment.
 
-## 2. Use of Data  
-Your data is used only to:  
-- Enable secure wallet functionality and transaction signing  
-- Improve the Extension’s security and user experience  
-- Prevent fraud and abuse
+---
 
-## 3. Data Storage and Security  
-- Encrypted private keys are stored securely; we do not have access to decrypt them.  
-- Passwords are never transmitted or stored on our servers in plaintext.  
-- We implement best practices to protect your data.
+## 2. Key Features & Responsibilities
 
-## 4. Sharing of Data  
-We do not share your personal or wallet data with third parties except as required by law.
+* **Non-custodial Architecture**: We do not store, access, or transmit private keys, passwords, or mnemonic phrases.
+* **Client-side Encryption**: The user's mnemonic and private keys are encrypted and stored locally in the Extension's browser storage. Only the user can access them.
+* **Password-Based Access**: Users choose a password to encrypt their wallet. This password is never stored or transmitted.
+* **Transaction Signing**: Smart contracts are signed locally in the Extension. When necessary, the user voluntarily provides their private key and password for the purpose of signing a transaction. This process occurs entirely in-memory and is never logged or stored.
+* **Steam Integration**: The Extension uses Steam OAuth solely to verify ownership of a Steam account. No sensitive data from Steam is stored beyond what is required for trade verification.
 
-## 5. User Rights  
-- You can delete your wallet data by uninstalling the Extension and clearing local storage.  
-- You have the right to request information on the data processed by contacting support.
+---
 
-## 6. Cookies and Tracking  
-The Extension does not use tracking cookies or analytics.
+## 3. User Responsibilities
 
-## 7. Changes to this Policy  
-We may update this Privacy Policy. Continued use implies acceptance.
+* You are solely responsible for remembering and safeguarding your password, private keys, and recovery phrase.
+* We are not liable for the loss of funds or access resulting from forgotten passwords or deleted local storage.
+* You must ensure that your device and browser are secure when using the Extension.
 
-For questions, contact: support@chainskins.net
+---
+
+## 4. Data Collection and Use
+
+We do **not** collect or store any of the following:
+
+* Private keys
+* Mnemonics / seed phrases
+* User passwords
+* Personally identifiable information (PII)
+
+The only data processed includes:
+
+* Encrypted wallet data stored locally on your browser.
+* Temporary in-memory data used for transaction signing.
+* Technical metadata such as device type, extension version (only if strictly necessary for functionality).
+
+---
+
+## 5. Security Measures
+
+* Wallet data is encrypted using client-side cryptography before being saved.
+* No decrypted wallet content is ever stored or transmitted.
+* Industry-standard best practices are followed for cryptographic operations within the Extension.
+
+---
+
+## 6. No Custody, No Guarantees
+
+* We do not provide any form of custody or backup service for your wallet.
+* We do not guarantee recovery of lost access, funds, or credentials.
+* The Extension is provided "as-is" and used at your own risk.
+
+---
+
+## 7. Legal Compliance
+
+* This Extension does not fall under custodial wallet regulations as no user credentials or assets are held by the provider.
+* You are responsible for ensuring compliance with local regulations, especially in relation to crypto usage and trading.
+* The Extension may comply with legal requests for information to the extent technically and lawfully possible.
+
+---
+
+## 8. Changes to This Policy
+
+We may update this document at any time to reflect technical, legal, or regulatory changes. Continued use of the Extension constitutes acceptance of the revised terms.
+
+For questions or concerns, contact: **[support@chainskins.net](mailto:support@chainskins.net)**
