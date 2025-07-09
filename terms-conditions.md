@@ -83,11 +83,11 @@ We reserve the right to suspend or ban users who:
 
 ---
 
-### 9. Jurisdiction and Governing Law
+### 9. Governing Law and Jurisdiction
 
-These Terms shall be governed by and construed in accordance with the laws of **Estonia**. You agree to the exclusive jurisdiction of the courts located in Estonia for any disputes related to the Platform.
+For the purposes of these Terms and Conditions, the laws of the country where the Platform operator resides shall govern this agreement. Users agree to submit to the exclusive jurisdiction of the courts located in that country for any disputes arising out of or relating to these Terms.
 
-This choice of law does **not imply that chainskins.net is a registered business** in Estonia or elsewhere.
+This choice reflects the actual place of operation and legal domicile of the Platform operator, ensuring clarity and enforceability.
 
 ---
 
