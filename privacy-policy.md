@@ -1,3 +1,4 @@
+
 # chainskins.net – Privacy Policy
 
 _Last updated: July 09, 2025_
@@ -32,7 +33,17 @@ We use the collected data solely to:
 
 ---
 
-### 3. Data Security
+### 3. Legal Basis for Processing
+
+We process your data based on the following legal grounds:
+
+- **Performance of a contract:** To facilitate your use of the Platform and complete smart contract transactions.
+- **Compliance with legal obligations:** To fulfill applicable laws, including AML/KYC requirements.
+- **Legitimate interests:** To prevent fraud, ensure security, and improve the Platform, provided this does not override your rights.
+
+---
+
+### 4. Data Security
 
 - Wallet keys are **never stored in plaintext**.
 - All encryption occurs client-side using a combination of the user's password and a server-side master key.
@@ -41,45 +52,64 @@ We use the collected data solely to:
 
 ---
 
-### 4. Third-Party Services
+### 5. Data Retention
+
+We retain your data only for as long as necessary to:
+
+- Provide the services you request,
+- Comply with legal obligations,
+- Resolve disputes and enforce agreements.
+
+After these purposes are fulfilled, we securely delete or anonymize your data.
+
+---
+
+### 6. Third-Party Services
 
 We may use **anonymized analytics tools** (e.g., page visit tracking) to understand user behavior. These tools do **not** collect personal data or wallet keys.
 
 ---
 
-### 5. Cookies
+### 7. Cookies
 
 We use only **essential cookies** required for platform performance, session integrity, and security. No advertising or tracking cookies are deployed during the beta phase.
 
+You can manage cookies through your browser settings, but disabling essential cookies may affect platform functionality.
+
 ---
 
-### 6. Your Rights (Under GDPR)
+### 8. Your Rights (Under GDPR)
 
 You have the right to:
 
-- Request deletion of your encrypted wallet metadata and activity logs.
-- Export your wallet interaction history.
+- Access your personal data.
+- Request correction or deletion of inaccurate or unnecessary data.
+- Object to or restrict processing.
+- Request data portability.
+- Withdraw consent at any time (where processing is consent-based).
 - File a complaint with a data protection authority if you believe your rights are being violated.
 
 To exercise these rights, contact us at: **support@chainskins.net**
 
 ---
 
-### 7. Data Storage & Transfers
+### 9. Data Storage & Transfers
 
-Our servers are hosted within the European Union and/or in jurisdictions with adequate data protection standards. By using the Platform, you consent to necessary data transfers and processing.
+Our servers are hosted within the European Union and/or in jurisdictions with adequate data protection standards.
 
----
+If your data is transferred outside the European Economic Area (EEA), we ensure appropriate safeguards, such as standard contractual clauses or other approved mechanisms, to protect your data.
 
-### 8. Changes to This Policy
-
-We may update this policy from time to time. Continued use of the Platform after changes indicates your acceptance of the revised terms.
-
-For questions, contact us at: **support@chainskins.net**
+By using the Platform, you consent to these transfers and processing.
 
 ---
 
-### 9. Compliance with Legal Requirements and AML/KYC Measures
+### 10. Data Breach Notification
+
+In the event of a personal data breach that poses a risk to your rights and freedoms, we will notify you and the relevant data protection authority without undue delay, as required by law.
+
+---
+
+### 11. Compliance with Legal Requirements and AML/KYC Measures
 
 Chainskins.net is committed to complying with all applicable laws, including anti-money laundering (AML) and counter-terrorism financing (CTF) regulations.
 
@@ -87,3 +117,10 @@ If required by law or competent authorities, we reserve the right to request add
 
 By using the Platform, you agree to provide such information if requested and acknowledge that failure to comply may result in suspension or termination of access.
 
+---
+
+### 12. Changes to This Policy
+
+We may update this policy from time to time. Continued use of the Platform after changes indicates your acceptance of the revised terms.
+
+For questions, contact us at: **support@chainskins.net**
