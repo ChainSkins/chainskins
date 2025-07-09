@@ -87,7 +87,7 @@ You have the right to:
 - Withdraw consent at any time (where processing is consent-based).
 - File a complaint with a data protection authority if you believe your rights are being violated.
 
-To exercise these rights, contact us at: **support@chainskins.net**
+To exercise these rights, contact us at: **[support@chainskins.net](mailto:support@chainskins.net)**
 
 ---
 
