@@ -121,7 +121,7 @@ By using the Platform, you agree to provide such information if requested and ac
 
 We may update this policy from time to time. Continued use of the Platform after changes indicates your acceptance of the revised terms.
 
-For questions, contact us at: **support@chainskins.net**
+For questions, contact us at: **[support@chainskins.net](mailto:support@chainskins.net)**
 
 ---
 
