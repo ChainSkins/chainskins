@@ -1,6 +1,6 @@
 # chainskins.net – Terms and Conditions
 
-_Last updated: July 09, 2025_
+_Last updated: July 16, 2025_
 
 Welcome to chainskins.net ("Platform", "we", "our", or "us"). By using this site, you ("User", "you") agree to the following Terms and Conditions. Please read them carefully.
 
@@ -37,6 +37,16 @@ chainskins.net does **not**:
 - Control the outcome of trades or disputes
 
 All trades are executed through **non-custodial multisig smart contracts**, and users retain full control of their keys and wallets.
+
+---
+
+### 4.1 Escrow and Multisig
+
+The system uses multisig contracts requiring signatures from the buyer, seller, and a neutral third party ("middleman") to release funds.
+
+- The multisig escrow private key is stored encrypted on our servers and can only be used to sign transactions when all parties have previously signed and conditions are met (such as confirmation of item delivery and acceptance, or expiration of a 7-day waiting period).
+- The middleman acts solely as a neutral arbitrator without unilateral control to move funds.
+- Users accept this structure by using the Platform and understand that the system depends on cooperation among parties to release or cancel funds.
 
 ---
 
