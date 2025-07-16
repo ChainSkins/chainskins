@@ -50,6 +50,15 @@ The system uses multisig contracts requiring signatures from the buyer, seller, 
 
 ---
 
+### 4.2 Waiting Period and Release of Funds
+
+- Users agree that once a trade is initiated, funds will be held in escrow for a minimum waiting period of **7 calendar days** to allow for the confirmation of item delivery and acceptance, or cancellation.
+- The release or refund of funds after this period requires the signatures of the buyer, seller, and middleman as part of the multisig process.
+- By using the Platform, you explicitly consent to this waiting period and the conditional release mechanism, acknowledging that this process is integral to the safe and fair operation of the marketplace.
+- The waiting period and release conditions are clearly reflected in the smart contracts governing each transaction.
+
+---
+
 ### 5. Crypto Wallets & User Responsibility
 
 - Users connect via browser-based crypto wallets.
